@@ -26,7 +26,6 @@ Continuamos con el, el servidor de laravel
 
     php artisan serve
 
-    @@ -35,34 +42,20 @@ Vital Health tiene la finalidad de mejorar los procesos médicos, ya sea de pape
 
 ### Herramientas utilizadas para el desarrollo
 
